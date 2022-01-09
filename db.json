@@ -1,0 +1,628 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Adidas",
+      "category": "hombre",
+      "sku": "2AV33700001",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "discount": 0,
+      "featureProduct": true,
+      "images": [
+        {
+          "name": "main",
+          "url": "https://main"
+        },
+        {
+          "name": "left",
+          "url": "https://left"
+        },
+        {
+          "name": "top",
+          "url": "https://top"
+        },
+        {
+          "name": "botton",
+          "url": "https://botton"
+        }
+      ],
+      "model": "Adilette Aqua Negro",
+      "price": 199.00,
+      "specifications": [
+        {
+          "name": "Marca",
+          "content": "Adidas"
+        },
+        {
+          "name": "Hecho en",
+          "content": "Vietnam"
+        },
+        {
+          "name": "Color",
+          "content": "Blanco"
+        },
+        {
+          "name": "Material",
+          "content": "Cuero"
+        },
+        {
+          "name": "Género",
+          "content": "Hombre"
+        }
+      ],
+      "subcategory": "sandalias",
+      "sizes": [
+        {
+          "size": 38,
+          "amount": 0
+        },
+        {
+          "size": 39,
+          "amount": 5
+        },
+        {
+          "size": 40,
+          "amount": 8
+        },
+        {
+          "size": 41,
+          "amount": 4
+        },
+        {
+          "size": 42,
+          "amount": 3
+        },
+        {
+          "size": 43,
+          "amount": 5
+        },
+        {
+          "size": 44,
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "Adidas",
+      "category": "hombre",
+      "sku": "2AV33700002",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "discount": 43,
+      "featureProduct": true,
+      "images": [
+        {
+          "name": "main",
+          "url": "https://main"
+        },
+        {
+          "name": "left",
+          "url": "https://left"
+        },
+        {
+          "name": "top",
+          "url": "https://top"
+        },
+        {
+          "name": "botton",
+          "url": "https://botton"
+        }
+      ],
+      "model": "Team Court EG9734",
+      "price": 399.00,
+      "specifications": [
+        {
+          "name": "Marca",
+          "content": "Adidas"
+        },
+        {
+          "name": "Hecho en",
+          "content": "Vietnam"
+        },
+        {
+          "name": "Color",
+          "content": "Negro"
+        },
+        {
+          "name": "Material",
+          "content": "Goma"
+        },
+        {
+          "name": "Género",
+          "content": "Hombre"
+        }
+      ],
+      "subcategory": "zapatillas",
+      "sizes": [
+        {
+          "size": 38,
+          "amount": 0
+        },
+        {
+          "size": 39,
+          "amount": 5
+        },
+        {
+          "size": 40,
+          "amount": 8
+        },
+        {
+          "size": 41,
+          "amount": 4
+        },
+        {
+          "size": 42,
+          "amount": 3
+        },
+        {
+          "size": 43,
+          "amount": 5
+        },
+        {
+          "size": 44,
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "Calvic",
+      "category": "hombre",
+      "sku": "2AV33700003",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "discount": 0,
+      "featureProduct": true,
+      "images": [
+        {
+          "name": "main",
+          "url": "https://main"
+        },
+        {
+          "name": "left",
+          "url": "https://left"
+        },
+        {
+          "name": "top",
+          "url": "https://top"
+        },
+        {
+          "name": "botton",
+          "url": "https://botton"
+        }
+      ],
+      "model": "Zapato De Vestir Negro",
+      "price": 279.00,
+      "specifications": [
+        {
+          "name": "Marca",
+          "content": "Calvic"
+        },
+        {
+          "name": "Hecho en",
+          "content": "Perú"
+        },
+        {
+          "name": "Color",
+          "content": "Negro"
+        },
+        {
+          "name": "Material",
+          "content": "Cuero Napa"
+        },
+        {
+          "name": "Género",
+          "content": "Hombre"
+        }
+      ],
+      "subcategory": "zapatos",
+      "sizes": [
+        {
+          "size": 38,
+          "amount": 0
+        },
+        {
+          "size": 39,
+          "amount": 5
+        },
+        {
+          "size": 40,
+          "amount": 8
+        },
+        {
+          "size": 41,
+          "amount": 4
+        },
+        {
+          "size": 42,
+          "amount": 3
+        },
+        {
+          "size": 43,
+          "amount": 5
+        },
+        {
+          "size": 44,
+          "amount": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "Gmapiel",
+      "category": "mujer",
+      "sku": "2AV33700004",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "discount": 0,
+      "featureProduct": true,
+      "images": [
+        {
+          "name": "main",
+          "url": "https://main"
+        },
+        {
+          "name": "left",
+          "url": "https://left"
+        },
+        {
+          "name": "top",
+          "url": "https://top"
+        }
+      ],
+      "model": "Sandalia Gmapiel Clasic Nude",
+      "price": 229.00,
+      "specifications": [
+        {
+          "name": "Marca",
+          "content": "Gmapiel"
+        },
+        {
+          "name": "Hecho en",
+          "content": "Vietnam"
+        },
+        {
+          "name": "Color",
+          "content": "Nude"
+        },
+        {
+          "name": "Material",
+          "content": "Piel Natural"
+        },
+        {
+          "name": "Género",
+          "content": "Mujer"
+        }
+      ],
+      "subcategory": "sandalias",
+      "sizes": [
+        {
+          "size": 35,
+          "amount": 0
+        },
+        {
+          "size": 36,
+          "amount": 5
+        },
+        {
+          "size": 37,
+          "amount": 8
+        },
+        {
+          "size": 38,
+          "amount": 4
+        },
+        {
+          "size": 39,
+          "amount": 3
+        },
+        {
+          "size": 40,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "Footloose",
+      "category": "mujer",
+      "sku": "2AV33700005",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "discount": 30,
+      "featureProduct": true,
+      "images": [
+        {
+          "name": "main",
+          "url": "https://main"
+        },
+        {
+          "name": "left",
+          "url": "https://left"
+        },
+        {
+          "name": "top",
+          "url": "https://top"
+        },
+        {
+          "name": "botton",
+          "url": "https://botton"
+        }
+      ],
+      "model": "Botas Footloose FCH",
+      "price": 169.00,
+      "specifications": [
+        {
+          "name": "Marca",
+          "content": "Footloose"
+        },
+        {
+          "name": "Hecho en",
+          "content": "Vietnam"
+        },
+        {
+          "name": "Color",
+          "content": "Negro"
+        },
+        {
+          "name": "Material",
+          "content": "Micro Fibra"
+        },
+        {
+          "name": "Género",
+          "content": "Mujer"
+        }
+      ],
+      "subcategory": "botas",
+      "sizes": [
+        {
+          "size": 35,
+          "amount": 0
+        },
+        {
+          "size": 36,
+          "amount": 5
+        },
+        {
+          "size": 37,
+          "amount": 8
+        },
+        {
+          "size": 38,
+          "amount": 4
+        },
+        {
+          "size": 39,
+          "amount": 3
+        },
+        {
+          "size": 40,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "Reebok",
+      "category": "mujer",
+      "sku": "2AV33700006",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "discount": 0,
+      "featureProduct": true,
+      "images": [
+        {
+          "name": "main",
+          "url": "https://main"
+        },
+        {
+          "name": "left",
+          "url": "https://left"
+        },
+        {
+          "name": "top",
+          "url": "https://top"
+        },
+        {
+          "name": "botton",
+          "url": "https://botton"
+        }
+      ],
+      "model": "Reebok Royal Classics Jogger",
+      "price": 249.00,
+      "specifications": [
+        {
+          "name": "Marca",
+          "content": "Reebok"
+        },
+        {
+          "name": "Hecho en",
+          "content": "Vietnam"
+        },
+        {
+          "name": "Color",
+          "content": "Blanco"
+        },
+        {
+          "name": "Material",
+          "content": "Cuero PU"
+        },
+        {
+          "name": "Género",
+          "content": "Mujer"
+        }
+      ],
+      "subcategory": "zapatillas",
+      "sizes": [
+        {
+          "size": 35,
+          "amount": 0
+        },
+        {
+          "size": 36,
+          "amount": 5
+        },
+        {
+          "size": 37,
+          "amount": 8
+        },
+        {
+          "size": 38,
+          "amount": 4
+        },
+        {
+          "size": 39,
+          "amount": 3
+        },
+        {
+          "size": 40,
+          "amount": 5
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "Reebok",
+      "category": "children",
+      "sku": "2AV33700007",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "discount": 0,
+      "featureProduct": true,
+      "images": [
+        {
+          "name": "main",
+          "url": "https://right"
+        },
+        {
+          "name": "left",
+          "url": "https://left"
+        },
+        {
+          "name": "top",
+          "url": "https://top"
+        },
+        {
+          "name": "botton",
+          "url": "https://botton"
+        }
+      ],
+      "model": "Classic Jogger 2.0",
+      "price": 199,
+      "specifications": [
+        {
+          "name": "Marca",
+          "content": "Reebok"
+        },
+        {
+          "name": "Hecho en",
+          "content": "Vietnam"
+        },
+        {
+          "name": "Color",
+          "content": "Plomo"
+        },
+        {
+          "name": "Material",
+          "content": "Cuero"
+        },
+        {
+          "name": "Género",
+          "content": "Niño"
+        }
+      ],
+      "subcategory": "zapatillas",
+      "sizes": [
+        {
+          "size": 22,
+          "amount": 0
+        },
+        {
+          "size": 22.5,
+          "amount": 5
+        },
+        {
+          "size": 26,
+          "amount": 8
+        },
+        {
+          "size": 27,
+          "amount": 4
+        },
+        {
+          "size": 28,
+          "amount": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "Skechers",
+      "category": "children",
+      "sku": "2AV33700008",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+      "discount": 0,
+      "featureProduct": true,
+      "images": [
+        {
+          "name": "main",
+          "url": "https://right"
+        },
+        {
+          "name": "left",
+          "url": "https://left"
+        },
+        {
+          "name": "top",
+          "url": "https://top"
+        },
+        {
+          "name": "botton",
+          "url": "https://botton"
+        }
+      ],
+      "model": "Skechers C-Flex2.0",
+      "price": 119,
+      "specifications": [
+        {
+          "name": "Skechers",
+          "content": "Reebok"
+        },
+        {
+          "name": "Hecho en",
+          "content": "Vietnam"
+        },
+        {
+          "name": "Color",
+          "content": "Negro"
+        },
+        {
+          "name": "Material",
+          "content": "Textil"
+        },
+        {
+          "name": "Género",
+          "content": "Niño"
+        }
+      ],
+      "subcategory": "sandalias",
+      "sizes": [
+        {
+          "size": 22,
+          "amount": 0
+        },
+        {
+          "size": 22.5,
+          "amount": 5
+        },
+        {
+          "size": 26,
+          "amount": 8
+        },
+        {
+          "size": 27,
+          "amount": 4
+        },
+        {
+          "size": 28,
+          "amount": 3
+        }
+      ]
+    }
+  ]
+}
